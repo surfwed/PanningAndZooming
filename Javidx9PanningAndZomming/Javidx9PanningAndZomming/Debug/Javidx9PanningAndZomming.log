@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\visualstudiosourcecode\javidx9panningandzomming\javidx9panningandzomming\source.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visualstudiosourcecode\javidx9panningandzomming\javidx9panningandzomming\source.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visualstudiosourcecode\javidx9panningandzomming\javidx9panningandzomming\source.cpp(68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9panningandzomming\javidx9panningandzomming\source.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9panningandzomming\javidx9panningandzomming\source.cpp(88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visualstudiosourcecode\javidx9panningandzomming\javidx9panningandzomming\source.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visualstudiosourcecode\javidx9panningandzomming\javidx9panningandzomming\source.cpp(137): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Javidx9PanningAndZomming.vcxproj -> D:\VisualStudioSourceCode\Javidx9PanningAndZomming\Debug\Javidx9PanningAndZomming.exe
